@@ -2,8 +2,8 @@
 
 An AI-powered basketball shot tracking system that uses computer vision and pose estimation to detect and analyze basketball shots in real-time or from video files.
 
-## Demo
-https://github.com/azimr24/cs1060/raw/main/ai_tracking/output.mp4
+## Demo (ran on test.mp4)
+https://github.com/azimr24/ai_basketball_tracking/output.mp4
 
 ## Features
 
