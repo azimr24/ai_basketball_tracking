@@ -32,11 +32,4 @@ ENV/
 *.swo
 
 # Project specific
-*.mp4
-*.avi
-*.mov
-best.pt
-yolov8n.pt
-yolo11n-pose.pt
-output/
 *.log
