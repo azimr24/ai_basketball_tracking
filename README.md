@@ -50,7 +50,7 @@ An AI-powered basketball shot tracking system that uses computer vision and pose
    ```bash
    pip install -r requirements.txt
    ```
-3. Download required YOLO models and place them in the project root:
+3. Download required YOLO models and place them in the project root (already in github hopefully):
    - `yolov8n.pt`
    - `best.pt`
    - `yolo11n-pose.pt`
